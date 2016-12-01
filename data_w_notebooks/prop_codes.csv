@@ -1,0 +1,84 @@
+,Use Code,Description
+0,7000,A children's day care center
+1,7100,"All church uses. This includes rectories, convents, and Sunday schools. The building record is coded according to the design type of the building."
+2,7200,"Private and parochial schools. (For public schools use an ""8800"" property use classification and ""7200"" building design type if building records exist.)"
+3,7300,Colleges and universities (private).
+4,7400,A hospital
+5,7410,"A convalescent hospital, nursing home, or related institution, which provides essentially medical or recuperative services"
+6,7500,"Homes for aged and others. Includes most institutions which provide essentially residential services, such as orphanages, resthomes, or retirement homes."
+7,7600,Senior day care centers: Adult care facility - Social and recreational services
+8,7610,Senior day centers: Adult day services - skilled care services offered.
+9,8800-8899,Miscellaneous Government-Owned properties (unless BOE assessed) that do not fall into any other classification.
+10,8800,Miscellaneous Government-Owned properties-- (OPEN)
+11,8801,Miscellaneous Government-Owned properties (unless BOE assessed) that do not fall into any other classification.
+12,8804,Miscellaneous Government-Owned properties (unless BOE assessed) that do not fall into any other classification. 2 stories 
+13,8806,Miscellaneous Government-Owned properties (unless BOE assessed) that do not fall into any other classification.6-13 stories
+14,8808,Miscellaneous Government-Owned properties (unless BOE assessed) that do not fall into any other classification.Over 20 stories 
+15,8809,Miscellaneous Government-Owned properties (unless BOE assessed) that do not fall into any other classification. Other improvements only. 
+16,880L,Miscellaneous Government-Owned properties (unless BOE assessed) that do not fall into any other classification. Lift.
+17,880V, VACANT LAND
+18,880X,"Miscellaneous Government-Owned properties (unless BOE assessed) that do not fall into any other classification.Vacant parcel that has improvement value due to existing non-structural other improvements(eg fences,blockwalls, light fixtures, spur track,paving that is not used for parking, service station canopies etc.0 This is used for Measure B purposes. "
+19,8810,"Miscellaneous privately owned properties that do not fall into any other classification. Examples include privately owned fire stations reservoirs, or airports-- Right of way, general"
+20,8811,"Street, road, highway"
+21,8812,"Future street, alley, etc."
+22,8813,Power transmission lines
+23,8814,"Sewers, utilities"
+24,881L,
+25,881X,
+26,8820," Goverment services, general"
+27,8821,"City Hall, Adminsitration center"
+28,8822,Auxillary and regional center
+29,8823,Police and fire station
+30,8824,"Utilities office, (power, water, etc.)"
+31,8825,Welfare and social services
+32,8826,Postal facility
+33,8827,Library
+34,8828,"Court building, jail"
+35,8829,Military post
+36,8830,"Public school, general"
+37,8831,College
+38,8832,High School
+39,8833,Elementary School
+40,8834,School Administration center
+41,8835,School services center
+42,883T,
+43,883V,
+44,8840,"Recreation, general"
+45,8841,Public park
+46,8842,"Art center, museum"
+47,8843,Public swimming pool
+48,8844,Sports stadium
+49,8845,Beach
+50,8846,Horse stable
+51,8847,Amusement ride
+52,8848,"Ball field (Little League, etc.)"
+53,8849,"Youth facility (scouts, etc.)"
+54,884L,
+55,884V,
+56,884X,
+57,8850,"Water related facilities, general"
+58,8854,"Pier, wharf"
+59,8855,Flood control damage
+60,8856,Irrigation-related
+61,8857,Dam
+62,8858,"Reservoir, tank underground storage"
+63,8859,Watershed
+64,885X,
+65,8860,"Transportation, general"
+66,8861,Harbor & related
+67,8862,Airport general
+68,8863,"Aiport, t-hanger"
+69,8865,"Airport, fixed-base operator"
+70,8866,
+71,886V,
+72,8872,
+73,8873,
+74,8890,
+75,8891,
+76,8892,
+77,8899,
+78,88G0,
+79,88T0,
+80,88T1,
+81,88TO,
+82,88TV,
